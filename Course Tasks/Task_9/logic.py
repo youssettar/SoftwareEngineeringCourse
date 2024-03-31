@@ -25,24 +25,10 @@ PROVIDING A SPACE WHERE ALL FAMILIES CAN GATHER AND ENJOY TIME TOGETHER.
 
 
 
-# NAME OF FRIENDS
-name_1 = "Youssef"
-name_2 = "Monika"
-name_3 = "Bilal"
-name_4 = "Mazin"
-name_5 = "Zayn"
-name_6 = "Tanja"
-name_7 = "Agne"
-name_8 = "Yassin"
-name_9 = "Younes"
-name_10 = "Hardon"
-name_11 = "Manito"
-name_12 = "Krimo"
-
-# FRIENDS LIST
+# NAMES OF FRIENDS
 friends = [
-    name_1, name_2, name_3, name_4, name_5, name_6, 
-    name_7, name_8, name_9, name_10,name_11, name_12
+    "Youssef", "Monika", "Bilal", "Mazin", "Zayn", "Tanja",
+    "Agne", "Yassin", "Younes", "Hardon", "Manito", "Krimo"
 ]
 
 # WELCOME MESSAGE
